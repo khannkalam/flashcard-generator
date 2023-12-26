@@ -2,7 +2,7 @@
 <h1 align="center">
   <br>
 
-![logo](./src/assets/logo.png)
+![logo](./src/assets/logo.png) 
 
 Flashcard Generator
 
@@ -69,10 +69,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/lokeshkavisth/Flashcard-Generator-Almabetter.git
+$ git clone https://github.com/khannkalam/flashcard-generator.git
 
 # Go into the repository
-$ cd Flashcard-Generator-Almabetter
+$ cd Flashcard-generator
 
 # Install dependencies
 $ npm install
