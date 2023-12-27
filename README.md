@@ -11,7 +11,7 @@ Flashcard Generator
 Introducing Flashcard Generator, your web-based solution for crafting, organizing, and sharing personalized flashcards. With its user-friendly interface and robust feature set, this application elevates the learning experience by making flashcard creation, management, and sharing seamless and effective. Dive into a smarter way of learning with Flashcard Generator!
 
 <h2 align='center'>
-<a href='https://flashcard-generatorr.netlify.app' target="_blank"> Watch Live! </a>
+<a href="https://flashcard-generatorr.netlify.app" target="_blank"> Watch Live! </a>
 </h2>
 
 <p align="center">  
